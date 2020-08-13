@@ -6,4 +6,5 @@
 
 * [Member page](group-tests/member-page.md)
 * [Identity](group-tests/identity.md)
+* [Examples](group-tests/examples.md)
 
