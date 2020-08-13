@@ -2,5 +2,5 @@
 description: This page is only for tutorials for GitBook
 ---
 
-# Mainpage
+# Tutorials for GitBook
 

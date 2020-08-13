@@ -1,4 +1,4 @@
 # Table of contents
 
-* [Mainpage](README.md)
+* [Tutorials for GitBook](README.md)
 
