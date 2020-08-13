@@ -1,5 +1,5 @@
 ---
-description: This page is only for tutorials for GitBook
+description: This pages is only for learning how to use GitBook.
 ---
 
 # Tutorials for GitBook
